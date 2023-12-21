@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: antiquewhite;
+}
+
+.circle {
+  width: 20rem;
+  height: 20rem;
+  border-radius: 50%;
+  border: none;
+  background-color: white;
+  cursor: url("./media/forget\ me\ not\ normal.cur"), pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.eyes {
+  width: 14rem;
+}
